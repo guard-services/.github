@@ -1,4 +1,4 @@
-# Informe de Identificadores: Crisutf Guard (Sistema de Licencias)
+# Informe de Identificadores: Crisutf Guard
 
 Este documento detalla la nomenclatura y los identificadores (IDs) asignados a cada componente del ecosistema **Crisutf Guard**, abarcando tanto la infraestructura del backend como los diversos agentes de cliente.
 
