@@ -32,7 +32,7 @@ Extensiones y aplicaciones para dispositivos móviles y navegación.
 
 ### Android Agent
 * **ID:** `Gog`
-* **Estado:** Pendiente de desarrollo.
+* **Estado:**  Mantenimiento.
 * **Descripción:** Versión planificada para dispositivos móviles Android.
 
 ### iOS / iPadOS Agent
