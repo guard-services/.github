@@ -68,8 +68,7 @@ Guard/
 │   ├── Own/           # Agente para Windows
 │   └── Web/           # Extensión para Navegador Web
 └── Backend/
-    ├── Ocean/         # Backend de Administración
-    └── Snowed/        # Backend Principal y Panel de Control
+    └── Snowed/        # Backend de Control
 ```
 
 ---
