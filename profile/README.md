@@ -1,60 +1,84 @@
-# Informe de Identificadores: Crisutf Guard
+# Crisutf Guard
 
-Este documento detalla la nomenclatura y los identificadores (IDs) asignados a cada componente del ecosistema **Crisutf Guard**, abarcando tanto la infraestructura del backend como los diversos agentes de cliente.
+## Propiedad Intelectual y Confidencialidad
 
-## Agentes de Cliente (Desktop)
-Software instalado directamente en sistemas operativos de escritorio para la monitorización y protección.
-
-### Windows Agent
-* **ID:** `Own`
-* **Estado:** Mantenimiento.
-* **Descripción:** Cliente optimizado para entornos Windows, actualmente bajo tareas de mejora y soporte.
-
-### MacOS Agent
-* **ID:** `Spensive`
-* **Estado:** Pendiente de desarrollo.
-* **Descripción:** Versión planificada para ecosistemas Apple de escritorio.
-
-### Linux Agent
-* **ID:** `Club`
-* **Estado:** Pendiente de desarrollo.
-* **Descripción:** Versión planificada para distribuciones basadas en Linux.
+Este proyecto es propiedad exclusiva de Crisutf Services. Todo el código, documentación y recursos asociados son confidenciales y no están disponibles para uso, distribución o modificación pública sin el consentimiento escrito previo del titular del derecho de autor.
 
 ---
 
-## Agentes de Cliente (Mobile & Web)
-Extensiones y aplicaciones para dispositivos móviles y navegación.
+## Presentación del Proyecto
 
-### Web Extension
-* **ID:** `Web`
-* **Estado:** En creación / Desarrollo activo.
-* **Descripción:** Extensión de navegador para el control de licencias en la web.
+Crisutf Guard es un completo sistema de Gestión de Dispositivos Móviles (MDM) diseñado para entornos empresariales y educativos, con soporte para múltiples plataformas.
 
-### Android Agent
-* **ID:** `Gog`
-* **Estado:**  Mantenimiento.
-* **Descripción:** Versión planificada para dispositivos móviles Android.
+### Objetivo del Proyecto
 
-### iOS / iPadOS Agent
-* **ID:** `Jovs`
-* **Estado:** Pendiente de desarrollo.
-* **Descripción:** Versión planificada para dispositivos móviles Apple (iPhone/iPad).
+Proporcionar una solución integral de gestión de dispositivos que permita a las organizaciones controlar, monitorizar y asegurar sus dispositivos de manera eficiente y segura.
 
 ---
 
-## Resumen Rápido de Referencia
+## Componentes del Sistema
 
-| Plataforma | ID |
-| :--- | :--- |
-| **Backend Admin** | Ocean |
-| **Backend Server** | Snowed |
-| **Windows** | Own |
-| **MacOS** | Spensive |
-| **Linux** | Club |
-| **Web Extension** | Web |
-| **Android** | Gog |
-| **iOS / iPadOS** | Jovs |
+El sistema se compone de los siguientes módulos:
+
+### Backend
+- **Ocean**: Backend de Administración
+- **Snowed**: Backend Principal y Panel de Control
+
+### Agentes
+- **Own**: Agente para Windows
+- **Spensive**: Agente para macOS
+- **Club**: Agente para Linux
+- **Web**: Extensión para Navegador Web
+- **Gog**: Aplicación para Android
+- **Jovs**: Aplicación para iOS / iPadOS
 
 ---
-*Informe generado para el equipo de desarrollo de Crisutf Guard.*
-L92@~9gj34kk3f44
+
+## Funcionalidades Principales
+
+- Gestión completa de dispositivos (aprobar, bloquear, monitorizar)
+- Control remoto de dispositivos (ejecución de comandos, bloqueo físico)
+- Monitorización en tiempo real de dispositivos
+- Filtro de contenido web por categorías
+- Modo Kiosko para dispositivos de uso público
+- Capturas de pantalla automáticas organizadas por dispositivo
+- Informes de actividad detallados (webs visitadas, apps usadas, webs bloqueadas)
+- Seguridad avanzada (modo suicida, whitelist esencial, comunicación encriptada)
+- Sincronización con Google Workspace para gestión de usuarios
+- Gestión de usuarios y grupos
+- Gestión de políticas de seguridad
+
+---
+
+## Información de Contacto
+
+Para consultas sobre el proyecto, licencias o uso autorizado, contacta con:
+
+- **Crisutf Services**
+- **Email**: info-guard@googlegroups.com
+
+---
+
+## Estructura del Repositorio
+
+```
+Guard/
+├── Agentes/
+│   ├── Gog/           # Aplicación para Android
+│   ├── Own/           # Agente para Windows
+│   └── Web/           # Extensión para Navegador Web
+└── Backend/
+    ├── Ocean/         # Backend de Administración
+    └── Snowed/        # Backend Principal y Panel de Control
+```
+
+---
+
+## Notas Importantes
+
+- Cualquier uso no autorizado está sujeto a las acciones legales aplicables.
+- Todos los derechos reservados.
+
+---
+
+© 2026 Crisutf Services. Todos los derechos reservados.
