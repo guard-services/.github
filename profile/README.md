@@ -21,7 +21,6 @@ Proporcionar una solución integral de gestión de dispositivos que permita a la
 El sistema se compone de los siguientes módulos:
 
 ### Backend
-- **Ocean**: Backend de Administración
 - **Snowed**: Backend Principal y Panel de Control
 
 ### Agentes
