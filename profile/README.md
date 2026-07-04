@@ -1,39 +1,21 @@
 # Crisutf Guard
 
-## Propiedad Intelectual y Confidencialidad
+## ⚠️ Propiedad Intelectual y Confidencialidad Absoluta
 
-Este proyecto es propiedad exclusiva de Crisutf Services. Todo el código, documentación y recursos asociados son confidenciales y no están disponibles para uso, distribución o modificación pública sin el consentimiento escrito previo del titular del derecho de autor.
+Este proyecto es propiedad exclusiva, confidencial y secreta de Crisutf Services. Todo el código, documentación y recursos asociados no son públicos ni open source. Cualquier acceso, visualización, copia, distribución, modificación o uso sin el consentimiento escrito previo y explícito de Crisutf Services es estrictamente prohibido, ilegal y constituye una violación de derechos de propiedad intelectual. Crisutf Services se reserva el derecho de tomar todas las acciones legales necesarias, civiles y penales, contra quienes violen estos términos.
 
 ---
 
-## Presentación del Proyecto
+## 📱 Presentación del Proyecto
 
 Crisutf Guard es un completo sistema de Gestión de Dispositivos Móviles (MDM) diseñado para entornos empresariales y educativos, con soporte para múltiples plataformas.
 
-### Objetivo del Proyecto
-
+### 🎯 Objetivo del Proyecto
 Proporcionar una solución integral de gestión de dispositivos que permita a las organizaciones controlar, monitorizar y asegurar sus dispositivos de manera eficiente y segura.
 
 ---
 
-## Componentes del Sistema
-
-El sistema se compone de los siguientes módulos:
-
-### Backend
-- **Snowed**: Backend Principal y Panel de Control
-
-### Agentes
-- **Own**: Agente para Windows
-- **Spensive**: Agente para macOS
-- **Club**: Agente para Linux
-- **Web**: Extensión para Navegador Web
-- **Gog**: Aplicación para Android
-- **Jovs**: Aplicación para iOS / iPadOS
-
----
-
-## Funcionalidades Principales
+## 🚀 Funcionalidades Principales
 
 - Gestión completa de dispositivos (aprobar, bloquear, monitorizar)
 - Control remoto de dispositivos (ejecución de comandos, bloqueo físico)
@@ -46,36 +28,6 @@ El sistema se compone de los siguientes módulos:
 - Sincronización con Google Workspace para gestión de usuarios
 - Gestión de usuarios y grupos
 - Gestión de políticas de seguridad
-
----
-
-## Información de Contacto
-
-Para consultas sobre el proyecto, licencias o uso autorizado, contacta con:
-
-- **Crisutf Services**
-- **Email**: info-guard@googlegroups.com
-
----
-
-## Estructura del Repositorio
-
-```
-Guard/
-├── Agentes/
-│   ├── Gog/           # Aplicación para Android
-│   ├── Own/           # Agente para Windows
-│   └── Web/           # Extensión para Navegador Web
-└── Backend/
-    └── Snowed/        # Backend de Control
-```
-
----
-
-## Notas Importantes
-
-- Cualquier uso no autorizado está sujeto a las acciones legales aplicables.
-- Todos los derechos reservados.
 
 ---
 
