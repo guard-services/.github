@@ -8,7 +8,7 @@ Este proyecto es propiedad exclusiva, confidencial y secreta de Crisutf Services
 
 ## 📱 Presentación del Proyecto
 
-Crisutf Guard es un completo sistema de Gestión de Dispositivos Móviles (MDM) diseñado para entornos empresariales y educativos, con soporte para múltiples plataformas.
+Crisutf Guard es un completo sistema de Gestión de Dispositivos Móviles (MDM) diseñado.
 
 ### 🎯 Objetivo del Proyecto
 Proporcionar una solución integral de gestión de dispositivos que permita a las organizaciones controlar, monitorizar y asegurar sus dispositivos de manera eficiente y segura.
